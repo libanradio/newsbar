@@ -1,4 +1,4 @@
-.bn-breaking-news{display:block;width:100%;height: 80px;border:soft 0px #fff;background:#66000000;height:40px;box-sizing:border-box;position:relative;line-height:100px;overflow:hidden;border-radius:0px;text-align:auto;font-size:18px}
+.bn-breaking-news{display:block;width:100%;height: 80px;border:soft 0px #fff;background:#66000000;height:40px;box-sizing:border-box;position:relative;line-height:100px;overflow:hidden;border-radius:0px;text-align:auto;font-size:16px}
 .bn-breaking-news *{box-sizing:border-box}
 .bn-breaking-news.bn-fixed-top{position:fixed;left:0;right:0;top:0}
 .bn-breaking-news.bn-fixed-bottom{position:fixed;left:0;right:0;bottom:0}
