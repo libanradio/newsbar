@@ -5,7 +5,7 @@ body{
   padding: 120;
   margin:0;
   box-sizing: border-box;
-  background-color: #66000000 ;
+  background-color: #333 ;
 }
 body *{
   box-sizing: border-box;
