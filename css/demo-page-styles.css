@@ -23,7 +23,7 @@ header{
 .section-container{
   width: 100%;
   margin: 0 auto;
-  max-width: 1365px;
+  max-width: 100%;
   padding: 0px 0px;
   
 
@@ -41,7 +41,7 @@ header{
   border:solid 1px #2eb872;
   border-radius: 3px;
   color: #2eb872;
-  text-decoration: red;
+  text-decoration: #eb2026;
 }
 .demo-button:hover{
   color: #000;
